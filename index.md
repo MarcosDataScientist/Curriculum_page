@@ -24,33 +24,33 @@ Responsável pela gestão da operação de vendas em múltiplos marketplaces (Am
 
 ### Principais Projetos e Resultados Técnicos:
 
-1. Infraestrutura de Governança de Dados (Data Warehouse Local)
+1. **Infraestrutura de Governança de Dados (Data Warehouse Local)**
 
-**Desafio:** A empresa dependia de relatórios fragmentados e planilhas instáveis para tomada de decisão.
+    **Desafio:** A empresa dependia de relatórios fragmentados e planilhas instáveis para tomada de decisão.
 
-**Solução:** Projetei e implementei um Banco de Dados Relacional (PostgreSQL) local. Desenvolvi pipelines de dados (ETL) utilizando Python para extrair dados do ERP e consolidá-los.
+    **Solução:** Projetei e implementei um Banco de Dados Relacional (PostgreSQL) local. Desenvolvi pipelines de dados (ETL) utilizando Python para extrair dados do ERP e consolidá-los.
 
-**Resultado:** Centralização da verdade dos dados, permitindo a criação de dashboards em tempo real via Streamlit acessados via LAN.
+    **Resultado:** Centralização da verdade dos dados, permitindo a criação de dashboards em tempo real via Streamlit acessados via LAN.
 
-2. CRM Personalizado & Aceleração de Vendas (WhatsApp/Web)
+2. **CRM Personalizado & Aceleração de Vendas (WhatsApp/Web)**
 
-**Desafio:** O time de vendas perdia tempo alternando entre o WhatsApp Web e o ERP para consultar histórico de clientes e catálogo.
+    **Desafio:** O time de vendas perdia tempo alternando entre o WhatsApp Web e o ERP para consultar histórico de clientes e catálogo.
 
-**Solução:** Desenvolvi uma Extensão para Google Chrome integrada a uma API REST (Flask). A ferramenta identifica o cliente no WhatsApp Web via manipulação de DOM e exibe histórico de compras e catálogo de produtos na mesma tela.
+    **Solução:** Desenvolvi uma Extensão para Google Chrome integrada a uma API REST (Flask). A ferramenta identifica o cliente no WhatsApp Web via manipulação de DOM e exibe histórico de compras e catálogo de produtos na mesma tela.
 
-**Resultado:** Aumento na agilidade do atendimento e recuperação de vendas de clientes inativos.
+    **Resultado:** Aumento na agilidade do atendimento e recuperação de vendas de clientes inativos.
 
-3. Automação de Expedição Logística
+3. **Automação de Expedição Logística**
 
-**Desafio:** Erros humanos na troca de etiquetas de envio geravam custos de devolução e penalidades nas plataformas.
+    **Desafio:** Erros humanos na troca de etiquetas de envio geravam custos de devolução e penalidades nas plataformas.
 
-**Solução:** Criei scripts de automação que integram a impressão de etiquetas térmicas com a conferência do pedido.
+    **Solução:** Criei scripts de automação que integram a impressão de etiquetas térmicas com a conferência do pedido.
 
-**Resultado:** Redução de 99% nos erros de envio (apenas 1 erro registrado em 3 anos de operação).
+    **Resultado:** Redução de 99% nos erros de envio (apenas 1 erro registrado em 3 anos de operação).
 
-4. Sistema de Precificação Assistida
+4. **Sistema de Precificação Assistida**
 
-Migração da lógica de precificação de planilhas Excel para o banco de dados SQL, garantindo integridade das margens de lucro para mais de 800 SKUs ativos.
+    Migração da lógica de precificação de planilhas Excel para o banco de dados SQL, garantindo integridade das margens de lucro para mais de 800 SKUs ativos.
 
 ## Habilidades Técnicas
 
