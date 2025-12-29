@@ -2,13 +2,7 @@
 layout: default
 ---
 
-# Marcos Vinícius Beregula Ferreira
-
-**Londrina, PR**
-
-**Habilidades Técnicas:** Python, SQL, PostgreSQL, Flask, JavaScript, ETL, Git/GitHub, Docker, Streamlit
-
-## Resumo Profissional
+# Resumo profissional
 
 Estudante de Ciência de Dados e Inteligência Artificial na UEL com forte viés prático de aplicação tecnológica em negócios. 
 Atuo há 3 anos como Gerente de E-commerce e Líder Técnico, onde migrei processos manuais para ecossistemas de dados estruturados. 
@@ -18,20 +12,19 @@ Busco oportunidades para aplicar conhecimentos de Data Science e Engenharia de S
 
 ## Formação Acadêmica
 
-* **Bacharelado em Ciência de Dados e Inteligência Artificial** | Universidade Estadual de Londrina (UEL) | _Previsão de Formatura: dezembro/2027_
+* **Bacharelado em Ciência de Dados e Inteligência Artificial** 
+Universidade Estadual de Londrina (UEL)
+_Previsão de Formatura: dezembro/2027_
 
 ## Experiência Profissional
 
-**Gerente de E-commerce & Líder Técnico @ Shop RG Car** (_outubro 2020 – Atual_)
+**Gerente de E-commerce & Líder Técnico (Shop RG Car)** (_outubro 2022 – Atual_)
 
-Londrina, PR
-
-Responsável pela gestão da operação de vendas em múltiplos marketplaces (Amazon, Mercado Livre, Shopee) 
-e pelo desenvolvimento de ferramentas internas para otimização de processos e inteligência de negócio.
+Responsável pela gestão da operação de vendas em múltiplos marketplaces (Amazon, Mercado Livre, Shopee e tray) e pelo desenvolvimento de ferramentas internas para otimização de processos e inteligência de negócio.
 
 ### Principais Projetos e Resultados Técnicos:
 
-#### Infraestrutura de Governança de Dados (Data Warehouse Local)
+1. Infraestrutura de Governança de Dados (Data Warehouse Local)
 
 **Desafio:** A empresa dependia de relatórios fragmentados e planilhas instáveis para tomada de decisão.
 
@@ -39,7 +32,7 @@ e pelo desenvolvimento de ferramentas internas para otimização de processos e 
 
 **Resultado:** Centralização da verdade dos dados, permitindo a criação de dashboards em tempo real via Streamlit acessados via LAN.
 
-#### CRM Personalizado & Aceleração de Vendas (WhatsApp/Web)
+2. CRM Personalizado & Aceleração de Vendas (WhatsApp/Web)
 
 **Desafio:** O time de vendas perdia tempo alternando entre o WhatsApp Web e o ERP para consultar histórico de clientes e catálogo.
 
@@ -47,7 +40,7 @@ e pelo desenvolvimento de ferramentas internas para otimização de processos e 
 
 **Resultado:** Aumento na agilidade do atendimento e recuperação de vendas de clientes inativos.
 
-#### Automação de Expedição Logística
+3. Automação de Expedição Logística
 
 **Desafio:** Erros humanos na troca de etiquetas de envio geravam custos de devolução e penalidades nas plataformas.
 
@@ -55,7 +48,7 @@ e pelo desenvolvimento de ferramentas internas para otimização de processos e 
 
 **Resultado:** Redução de 99% nos erros de envio (apenas 1 erro registrado em 3 anos de operação).
 
-#### Sistema de Precificação Dinâmica
+4. Sistema de Precificação Assistida
 
 Migração da lógica de precificação de planilhas Excel para o banco de dados SQL, garantindo integridade das margens de lucro para mais de 800 SKUs ativos.
 
@@ -72,12 +65,12 @@ Migração da lógica de precificação de planilhas Excel para o banco de dados
 
 Desenvolvimento de aplicativo Android utilizando React Native (Expo) e Backend Flask para leitura de peso de gado via integração Bluetooth com balanças.
 
-### Consultoria em Web & Branding
+### Consultoria Web
 
-Atuação autônoma no desenvolvimento de sites e posicionamento digital para clientes locais.
+Atuação autônoma no desenvolvimento de sites e infraestrutura digital para clientes locais.
 
 ## Idiomas
 
 * **Português:** Nativo
-* **Inglês:** Intermediário (Focado em leitura técnica, documentação com dialogo técnico)
+* **Inglês:** Intermediário (B1) (Focado em leitura técnica, documentação com dialogo técnico)
 
