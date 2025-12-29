@@ -6,9 +6,6 @@ layout: default
   <img src="{{ '/assets/img/profile_image.png' | relative_url }}" alt="Marcos Vinícius Beregula Ferreira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
 
-# Marcos Vinícius Beregula Ferreira
-
-**Londrina, PR**
 
 ## Resumo profissional
 
@@ -70,9 +67,11 @@ Responsável pela gestão da operação de vendas em múltiplos marketplaces (Am
 ## Projetos Pessoais & Extracurriculares
 
 1. **App de Gestão Pecuária (MVP)**
+
     Desenvolvimento de aplicativo Android utilizando React Native (Expo) e Backend Flask para leitura de peso de gado via integração Bluetooth com balanças.
 
 2. **Consultoria Web**
+
     Atuação autônoma no desenvolvimento de sites e infraestrutura digital para clientes locais.
 
 ## Idiomas
