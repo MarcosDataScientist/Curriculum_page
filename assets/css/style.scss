@@ -5,3 +5,40 @@
 
 /* Customizações adicionais podem ser adicionadas aqui */
 
+/* Posicionar imagem de perfil ao lado do h1 no header */
+header {
+  position: relative;
+}
+
+header .profile-image-header {
+  position: absolute;
+  left: 20px;
+  top: 25px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+
+header h1 {
+  position: relative;
+  padding-left: 180px;
+  margin: 0;
+}
+
+/* Ajustar para mobile */
+@media (max-width: 768px) {
+  header h1 {
+    padding-left: 0;
+    padding-top: 170px;
+    text-align: center;
+  }
+  
+  header .profile-image-header {
+    left: 50%;
+    top: 20px;
+    transform: translateX(-50%);
+  }
+}
+

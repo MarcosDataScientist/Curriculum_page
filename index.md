@@ -2,13 +2,10 @@
 layout: default
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="{{ '/assets/img/profile_image.jpeg' | relative_url }}" alt="Marcos Vinícius Beregula Ferreira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-</div>
+<img src="{{ '/assets/img/profile_image.jpeg' | relative_url }}" alt="Marcos Vinícius Beregula Ferreira" class="profile-image-header">
 
 # Marcos Vinícius Beregula Ferreira
 
-**Londrina, PR**
 
 ## Resumo profissional
 
