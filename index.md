@@ -2,7 +2,15 @@
 layout: default
 ---
 
-# Resumo profissional
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/img/profile_image.jpeg" alt="Marcos Vinícius Beregula Ferreira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #2563eb; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
+
+# Marcos Vinícius Beregula Ferreira
+
+**Londrina, PR**
+
+## Resumo profissional
 
 Estudante de Ciência de Dados e Inteligência Artificial na UEL com forte viés prático de aplicação tecnológica em negócios. 
 Atuo há 3 anos como Gerente de E-commerce e Líder Técnico, onde migrei processos manuais para ecossistemas de dados estruturados. 
