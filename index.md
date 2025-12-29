@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/img/profile_image.jpeg" alt="Marcos Vinícius Beregula Ferreira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #2563eb; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="{{ '/assets/img/profile_image.jpeg' | relative_url }}" alt="Marcos Vinícius Beregula Ferreira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
 
 # Marcos Vinícius Beregula Ferreira
@@ -30,7 +30,7 @@ _Previsão de Formatura: dezembro/2027_
 
 Responsável pela gestão da operação de vendas em múltiplos marketplaces (Amazon, Mercado Livre, Shopee e tray) e pelo desenvolvimento de ferramentas internas para otimização de processos e inteligência de negócio.
 
-### Principais Projetos e Resultados Técnicos:
+### Principais Projetos e Resultados Técnicos
 
 1. **Infraestrutura de Governança de Dados (Data Warehouse Local)**
 
@@ -69,13 +69,11 @@ Responsável pela gestão da operação de vendas em múltiplos marketplaces (Am
 
 ## Projetos Pessoais & Extracurriculares
 
-### App de Gestão Pecuária (MVP)
+1. **App de Gestão Pecuária (MVP)**
+    Desenvolvimento de aplicativo Android utilizando React Native (Expo) e Backend Flask para leitura de peso de gado via integração Bluetooth com balanças.
 
-Desenvolvimento de aplicativo Android utilizando React Native (Expo) e Backend Flask para leitura de peso de gado via integração Bluetooth com balanças.
-
-### Consultoria Web
-
-Atuação autônoma no desenvolvimento de sites e infraestrutura digital para clientes locais.
+2. **Consultoria Web**
+    Atuação autônoma no desenvolvimento de sites e infraestrutura digital para clientes locais.
 
 ## Idiomas
 
